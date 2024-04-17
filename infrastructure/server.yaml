@@ -8,4 +8,4 @@ spec:
     - name: server
       type: webservice
       properties:
-        image: nginx
+        image: yilitest.azurecr.io/app/containerapps-albumapi-java:v2
